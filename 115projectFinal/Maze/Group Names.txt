@@ -1,0 +1,15 @@
+Group
+Kamarin San Nicolas ID:109203893
+Kamolini Chakraborty ID:300336102
+
+
+Who did what
+
+Kamolini: 
+Coded the pathfinder functions 
+Implemented pathfinder algorithm to all characters 
+
+
+Kammy:
+Coded the terrain functions
+Displayed terrain image based on values in the matrix 
